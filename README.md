@@ -1,6 +1,6 @@
 TESLA CLONE :
 This is my first project
-##Created using Reactjs,Javascript,
+.Created using Reactjs,Javascript,style-components
 ![s1](https://user-images.githubusercontent.com/68057853/177280144-3b78f818-7a58-4903-9241-dfdc7a574296.png)
 ![model-y](https://user-images.githubusercontent.com/68057853/177280361-e898c55a-ffaa-4812-890f-352238159583.png)
 ![model-3](https://user-images.githubusercontent.com/68057853/177280539-a6b9997d-a051-4652-9c89-7af0d2fc5944.png)
